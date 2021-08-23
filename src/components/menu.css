@@ -1,0 +1,25 @@
+.section-center{
+  width: 100%;
+  padding: 50px 150px;
+  
+}
+
+.photo{
+  width: 180px !important;
+  border: 4px solid rgb(230, 169, 0);
+  height: 140px;
+}
+
+.price{
+  color: rgb(230, 169, 0);
+  
+}
+
+.title{
+  border-bottom: 2px solid rgb(230, 169, 0);
+}
+
+.item-text{
+   font-size: 15px;
+   line-height: 1.7;
+}
